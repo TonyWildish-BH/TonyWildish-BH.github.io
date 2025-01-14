@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://microsoft.github.io/AzureTRE/unreleased/</loc>
+         <lastmod>2025-01-14</lastmod>
+    </url>
+    <url>
+         <loc>https://microsoft.github.io/AzureTRE/unreleased/adc/Home/</loc>
+         <lastmod>2025-01-14</lastmod>
+    </url>
+    <url>
+         <loc>https://microsoft.github.io/AzureTRE/unreleased/portal/Home/</loc>
+         <lastmod>2025-01-14</lastmod>
+    </url>
+    <url>
+         <loc>https://microsoft.github.io/AzureTRE/unreleased/portal/form/</loc>
+         <lastmod>2025-01-14</lastmod>
+    </url>
+    <url>
+         <loc>https://microsoft.github.io/AzureTRE/unreleased/sde/Home/</loc>
+         <lastmod>2025-01-14</lastmod>
+    </url>
+    <url>
+         <loc>https://microsoft.github.io/AzureTRE/unreleased/sde/Using-your-workspace/</loc>
+         <lastmod>2025-01-14</lastmod>
+    </url>
+    <url>
+         <loc>https://microsoft.github.io/AzureTRE/unreleased/sde/Working-with-data/</loc>
+         <lastmod>2025-01-14</lastmod>
+    </url>
+    <url>
+         <loc>https://microsoft.github.io/AzureTRE/unreleased/subdir/test/</loc>
+         <lastmod>2025-01-14</lastmod>
+    </url>
+</urlset>
