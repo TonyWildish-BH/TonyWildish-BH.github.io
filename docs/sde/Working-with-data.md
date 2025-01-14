@@ -12,6 +12,7 @@ The Airlock metaphor captures the way users can import their own data into their
 
 ### Importing data
 For importing, the workflow looks like this:
+
 * A researcher creates a request to import data,
 * Then they upload their data to secure storage, as part of the request process,
 * Then they submit the request.
@@ -19,6 +20,7 @@ For importing, the workflow looks like this:
 * If approved, the researcher will then receive an email with a secure URL to allow them to retrieve data from the workspace, using a VM within the workspace.
 
 Note that there are **two important restrictions** on importing/exporting data:
+
 1. You can only import or export a single file at a time. If you want to transfer multiple files, you can always zip them together, that's fine.
 1. The file is currently limited to a maximum size of 2 GB, because of the requirements to scan it for malware with Azure Defender for Cloud. If you have data larger than 2 GB, either break it into several smaller requests, or contact us to find a solution for you.
 
@@ -81,9 +83,6 @@ If your request has been approved, you can double-click on the request and see t
 `sudo snap connect storage-explorer:password-manager-service :password-manager-service`
 
 ![25 Get SAS URL for import](https://github.com/Barts-Life-Science/AzureTRE/assets/153200306/bacb2dc4-49ed-497c-9e5f-853764382704)
-
-
-
 
 ### Exporting data
 The export process is entirely analogous, simply starting from the workspace VM with the upload of a (possibly tarred or zipped) file.
